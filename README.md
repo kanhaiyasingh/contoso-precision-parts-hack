@@ -1,2 +1,2 @@
 # contoso-precision-parts-hack
-Buit for FabricIQ Hack
+Built for FabricIQ Hack
